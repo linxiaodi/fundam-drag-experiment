@@ -1,0 +1,6 @@
+export const DROP_ENTER_EVENT_NAME = '$$_DROP_ENTER_EVENT_NAME_$$'
+
+export const DROP_OVER_EVENT_NAME = '$$_DROP_ENTER_EVENT_NAME_$$'
+
+export const DROP_LEAVE_EVENT_NAME = '$$_DROP_ENTER_EVENT_NAME_$$'
+
